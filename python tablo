@@ -1,0 +1,131 @@
+
+print ("╔════════════════════════════╗")
+print ("║       VEKTOREL APP         ║")
+print ("╠════════════════════════════╣")
+print ("║  1- hesaplamalar           ║")
+print ("║  2- Oyunlar                ║")
+print ("║  3- çziimler               ║")
+print ("║  4- geziler                ║")
+print ("║  5- çıkış                  ║")
+print ("╚════════════════════════════╝")
+secim = input("seciminiz nedir?")
+if secim == "1" :
+    print(secim, "sectiniz")
+    print("hesaplamalar bölümüne yönlendirileceksiniz")
+    print ("╔════════════════════════════╗")
+    print ("║       Hesap Makinesi       ║")
+    print ("╠════════════════════════════╣")
+    print ("║  1- İki sayıyı topla       ║")
+    print ("║  2- kare alanı hesaplama   ║")
+    print ("║  3- iki sayıyı çarp        ║")
+    print ("║  4- bölme işlemi           ║")
+    print ("║  5- çıkış                  ║")
+    print ("╚════════════════════════════╝")
+    secim = input("seciminiz nedir?")
+    if secim == "1" :
+        print(secim, "sectiniz")
+        print("toplama bölümüne yönlendirileceksiniz")
+    elif secim == "2" :
+        print(secim, "sectiniz")
+        print("alan hesaplama bölümüne yönlendirileceksiniz")
+    elif secim == "3" :
+        print(secim, "sectiniz")
+        print("çarpım bölümüne yönlendirileceksiniz")
+    elif secim == "4" :
+        print(secim, "sectiniz")
+        print("bölme hesaplama bölümüne yönlendirileceksiniz")
+    elif secim == "5"
+        print(secim, "sectiniz")   
+        print("cikis yaptiniz, program kapatiliyor") 
+
+
+elif secim == "2" :
+    print(secim, "sectiniz")
+    print("oyunlar bölümüne yönlendirileceksiniz")
+    print ("╔════════════════════════════╗")
+    print ("║       Oyunlar              ║")
+    print ("╠════════════════════════════╣")
+    print ("║  1- oyunda puan topla      ║")
+    print ("║  2- oyun bölümleri yapma   ║")
+    print ("║  3- geçilen bölümler       ║")
+    print ("║  4- kaybedilen bölümler    ║")
+    print ("║  5- çıkış                  ║")
+    print ("╚════════════════════════════╝")
+    secim = input("seciminiz nedir?")
+    if secim == "1" :
+        print(secim, "sectiniz")
+        print("puan toplama bölümüne yönlendirileceksiniz")
+    elif secim == "2" :
+        print(secim, "sectiniz")
+        print("bölüm oluşturma bölümüne yönlendirileceksiniz")
+    elif secim == "3" :
+        print(secim, "sectiniz")
+        print("çgeçilen bölümler bölümüne yönlendirileceksiniz")
+    elif secim == "4" :
+        print(secim, "sectiniz")
+        print("kaybedilen bölümler bölümüne yönlendirileceksiniz")
+    elif secim == "5"
+        print(secim, "sectiniz")   
+        print("cikis yaptiniz, program kapatiliyor") 
+
+elif secim == "3" :
+    print(secim, "sectiniz")
+    print("çizimler bölümüne yönlendirileceksiniz")
+    print ("╔════════════════════════════╗")
+    print ("║       cizimler             ║")
+    print ("╠════════════════════════════╣")
+    print ("║  1- düz cizgiler           ║")
+    print ("║  2- yamuk cizgiler         ║")
+    rint  ("║  3- capraz cizgiler        ║")
+    print ("║  4- paralel cizgiler       ║")
+    print ("║  5- çıkış                  ║")
+    print ("╚════════════════════════════╝") 
+    secim = input("seciminiz nedir?")
+    if secim == "1" :
+        print(secim, "sectiniz")
+        print("düz cizgiler bölümüne yönlendirileceksiniz")
+    elif secim == "2" :
+        print(secim, "sectiniz")
+        print("yamuk cizgiler bölümüne yönlendirileceksiniz")
+    elif secim == "3" :
+        print(secim, "sectiniz")
+        print("capraz cizgiler bölümüne yönlendirileceksiniz")
+    elif secim == "4" :
+        print(secim, "sectiniz")
+        print("paralel cizgiler bölümüne yönlendirileceksiniz")
+    elif secim == "5"
+        print(secim, "sectiniz")   
+        print("cikis yaptiniz, program kapatiliyor") 
+
+elif secim == "4" :
+    print(secim, "sectiniz")
+    print("geziler bölümüne yönlendirileceksiniz")    
+    print ("╔════════════════════════════╗")
+    print ("║       Geziler              ║")
+    print ("╠════════════════════════════╣")
+    print ("║  1- planlanan geziler      ║")
+    print ("║  2- gidilecek yerler       ║")
+    print ("║  3- gidilen yerler         ║")
+    print ("║  4- gidilmeyecek yerler    ║")
+    print ("║  5- çıkış                  ║")
+    print ("╚════════════════════════════╝")
+    secim = input("seciminiz nedir?")
+    if secim == "1" :
+        print(secim, "sectiniz")
+        print("planlanan geziler bölümüne yönlendirileceksiniz")
+    elif secim == "2" :
+        print(secim, "sectiniz")
+        print("gidilecek yerler bölümüne yönlendirileceksiniz")
+    elif secim == "3" :
+        print(secim, "sectiniz")
+        print("gidilen yerler bölümüne yönlendirileceksiniz")
+    elif secim == "4" :
+        print(secim, "sectiniz")
+        print("kgidilmeyecek yerler bölümüne yönlendirileceksiniz")
+    elif secim == "5"
+        print(secim, "sectiniz")   
+        print("cikis yaptiniz, program kapatiliyor") 
+
+elif secim == "5"
+print (secim, "sectiniz")
+print ("cikis yaptiniz, program kapatiliyor")
