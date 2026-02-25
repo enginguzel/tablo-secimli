@@ -128,5 +128,5 @@ elif secim == "4" :
 
 elif secim == "5" :
 print (secim, "sectiniz")
-
 print ("cikis yaptiniz, program kapatiliyor")
+
