@@ -34,7 +34,7 @@ if secim == "1" :
     elif secim == "4" :
         print(secim, "sectiniz")
         print("bölme hesaplama bölümüne yönlendirileceksiniz")
-    elif secim == "5"
+    elif secim == "5" :
         print(secim, "sectiniz")   
         print("cikis yaptiniz, program kapatiliyor") 
 
@@ -64,7 +64,7 @@ elif secim == "2" :
     elif secim == "4" :
         print(secim, "sectiniz")
         print("kaybedilen bölümler bölümüne yönlendirileceksiniz")
-    elif secim == "5"
+    elif secim == "5" :
         print(secim, "sectiniz")   
         print("cikis yaptiniz, program kapatiliyor") 
 
@@ -93,7 +93,7 @@ elif secim == "3" :
     elif secim == "4" :
         print(secim, "sectiniz")
         print("paralel cizgiler bölümüne yönlendirileceksiniz")
-    elif secim == "5"
+    elif secim == "5" :
         print(secim, "sectiniz")   
         print("cikis yaptiniz, program kapatiliyor") 
 
@@ -122,10 +122,11 @@ elif secim == "4" :
     elif secim == "4" :
         print(secim, "sectiniz")
         print("kgidilmeyecek yerler bölümüne yönlendirileceksiniz")
-    elif secim == "5"
+    elif secim == "5" :
         print(secim, "sectiniz")   
         print("cikis yaptiniz, program kapatiliyor") 
 
-elif secim == "5"
+elif secim == "5" :
 print (secim, "sectiniz")
+
 print ("cikis yaptiniz, program kapatiliyor")
