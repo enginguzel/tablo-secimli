@@ -127,6 +127,6 @@ elif secim == "4" :
         print("cikis yaptiniz, program kapatiliyor") 
 
 elif secim == "5" :
-print (secim, "sectiniz")
-print ("cikis yaptiniz, program kapatiliyor")
+    print (secim, "sectiniz")
+    print ("cikis yaptiniz, program kapatiliyor")
 
