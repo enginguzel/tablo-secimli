@@ -1,2 +1,0 @@
-print("kasamodulu")
-print("______")

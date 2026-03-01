@@ -1,2 +1,0 @@
-print("faturamodulu")
-print("______")

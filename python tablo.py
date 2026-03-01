@@ -12,15 +12,7 @@ secim = input("seciminiz nedir?")
 if secim == "1" :
     print(secim, "sectiniz")
     print("hesaplamalar bölümüne yönlendirileceksiniz")
-    print ("╔════════════════════════════╗")
-    print ("║       Hesap Makinesi       ║")
-    print ("╠════════════════════════════╣")
-    print ("║  1- İki sayıyı topla       ║")
-    print ("║  2- kare alanı hesaplama   ║")
-    print ("║  3- iki sayıyı çarp        ║")
-    print ("║  4- bölme işlemi           ║")
-    print ("║  5- çıkış                  ║")
-    print ("╚════════════════════════════╝")
+    import moduller1.hesapmodulu
     secim = input("seciminiz nedir?")
     if secim == "1" :
         print(secim, "sectiniz")
@@ -42,15 +34,7 @@ if secim == "1" :
 elif secim == "2" :
     print(secim, "sectiniz")
     print("oyunlar bölümüne yönlendirileceksiniz")
-    print ("╔════════════════════════════╗")
-    print ("║       Oyunlar              ║")
-    print ("╠════════════════════════════╣")
-    print ("║  1- oyunda puan topla      ║")
-    print ("║  2- oyun bölümleri yapma   ║")
-    print ("║  3- geçilen bölümler       ║")
-    print ("║  4- kaybedilen bölümler    ║")
-    print ("║  5- çıkış                  ║")
-    print ("╚════════════════════════════╝")
+    import moduller1.oyunmodulu
     secim = input("seciminiz nedir?")
     if secim == "1" :
         print(secim, "sectiniz")
@@ -71,15 +55,7 @@ elif secim == "2" :
 elif secim == "3" :
     print(secim, "sectiniz")
     print("çizimler bölümüne yönlendirileceksiniz")
-    print ("╔════════════════════════════╗")
-    print ("║       cizimler             ║")
-    print ("╠════════════════════════════╣")
-    print ("║  1- düz cizgiler           ║")
-    print ("║  2- yamuk cizgiler         ║")
-    rint  ("║  3- capraz cizgiler        ║")
-    print ("║  4- paralel cizgiler       ║")
-    print ("║  5- çıkış                  ║")
-    print ("╚════════════════════════════╝") 
+    import moduller1.cizimmodulu
     secim = input("seciminiz nedir?")
     if secim == "1" :
         print(secim, "sectiniz")
@@ -100,15 +76,7 @@ elif secim == "3" :
 elif secim == "4" :
     print(secim, "sectiniz")
     print("geziler bölümüne yönlendirileceksiniz")    
-    print ("╔════════════════════════════╗")
-    print ("║       Geziler              ║")
-    print ("╠════════════════════════════╣")
-    print ("║  1- planlanan geziler      ║")
-    print ("║  2- gidilecek yerler       ║")
-    print ("║  3- gidilen yerler         ║")
-    print ("║  4- gidilmeyecek yerler    ║")
-    print ("║  5- çıkış                  ║")
-    print ("╚════════════════════════════╝")
+    import moduller1.gezimodulu
     secim = input("seciminiz nedir?")
     if secim == "1" :
         print(secim, "sectiniz")
