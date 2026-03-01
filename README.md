@@ -2,10 +2,10 @@
 
 <img src="resimler/ana ekran.PNG" alt="Örnek Resim">
 
-# tablodan secim yapilmasi gerekir
+<p> tablodan secim yapilmasi gerekir <p>
 
 <img src="resimler/secim yönlendirme.PNG" alt="Örnek Resim"/>
 
-#secime göre alt tablolara yonlendirir
+<p> secime göre alt tablolara yonlendirir <p>
 
 
